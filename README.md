@@ -2,7 +2,7 @@
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
-The applicatiopn depends on the user and feed microservices.  Please visit the deployment repo for links to the two microservices.
+The applicatiopn depends on the user and feed microservices.  Please visit the [deployment repo](https://github.com/herniated/udacity-c3-deployment) for instructions on how install the two microservices.
 
 ### Prerequisite
 1. The depends on the Node Package Manager (NPM). You will need to download and install Node from [https://nodejs.com/en/download](https://nodejs.org/en/download/). This will allow you to be able to run `npm` commands.
